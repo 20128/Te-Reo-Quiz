@@ -79,3 +79,7 @@ What does Nga mihi mean?
 2: Good work
 3: Good job
 4: well done
+
+
+
+https://stackoverflow.com/questions/19212282/python-quiz-scoring-and-conditional-statement-problems
